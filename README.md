@@ -19,8 +19,7 @@ A low-level bioinformatics toolkit written entirely in **8086 Assembly**, capabl
 /src
 └── main.asm
 /assets
-├── banner.png
-└── diagram.png
+└── coderun.png
 
 ---
 
