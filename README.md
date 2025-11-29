@@ -25,7 +25,7 @@ A low-level bioinformatics toolkit written entirely in **8086 Assembly**, capabl
 ---
 
 ## 🖼️ Preview
-![Run Screen](./assets/runcode.png)
+![Run Screen](./assets/coderun.png)
 
 ---
 
